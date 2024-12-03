@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://raw.githubusercontent.com/jennamo/jennamo.github.io/gh-pages/docs/assets/images/_48Y5749.JPG", alt="Jenna Moore", width="300", height="200">
+![Jenna Moore](https://raw.githubusercontent.com/jennamo/jennamo.github.io/gh-pages/docs/assets/images/_48Y5749.JPG =300x200)
 
 Hi! I am currently a Postdoctoral Associate in the Department of Physics at Duke University in Durham, North Carolina.
