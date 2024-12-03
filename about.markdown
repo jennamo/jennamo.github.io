@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Jenna Moore](_48Y5749.JPG)
+![Jenna Moore]({{ site.baseurl }}_48Y5749.JPG)
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
