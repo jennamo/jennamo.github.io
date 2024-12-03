@@ -21,7 +21,7 @@ _# Welcome to Jekyll!
 title: Jenna Moore
 email: jenna(dot)moore(at)duke(dot)edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my website.
+  This is Jenna's website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
