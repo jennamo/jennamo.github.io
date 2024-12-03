@@ -31,6 +31,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
@@ -44,7 +45,7 @@ minima:
   # solarized	         Adaptive skin for solarized color scheme skins.
   skin: auto
 
- # Generate social links in footer.
+  # Generate social links in footer.
   social_links:
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
@@ -52,7 +53,7 @@ minima:
   #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
   #  - { platform: github,         user_url: "https://github.com/jekyll/minima" }
   #  - { platform: gitlab,         user_url: "https://gitlab.com/jekyll" }
-    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=5ElbNzsAAAAJ&hl=en" }
+   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=5ElbNzsAAAAJ&hl=en" }
   #  - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
   #  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
