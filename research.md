@@ -10,7 +10,7 @@ Below is a list of projects I am currently working on. Click on each heading to 
 
 ## [Simons Observatory](https://www.jenna-moore.com/research/simonsobservatory) 
 
-## [Measuring the EBL from DES images](https://www.jenna-moore.com/research/des-ebl) 
+## [Measuring the Extragalactic Background Light with Images from the Dark Energy Survey](https://www.jenna-moore.com/research/des-ebl) 
 
 ## [CCAT](https://www.jenna-moore.com/research/ccat) 
 
