@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Simons Observatory
+title: Measuring the Extragalactic Background from Dark Energy Survey Image Stacks
 permalink: /research/des-ebl
 ---
 
