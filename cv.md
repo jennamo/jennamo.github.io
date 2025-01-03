@@ -3,5 +3,5 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-<embed src="http://example.com/the.pdf](https://www.overleaf.com/read/bpgkszjbsyhx#26cf47" width="500" height="375" 
+<embed src="https://raw.githubusercontent.com/jennamo/jennamo.github.io/gh-pages/docs/assets/images/cv-jan-2025.pdf" width="500" height="375" 
  type="application/pdf">
