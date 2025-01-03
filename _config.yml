@@ -27,6 +27,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #google_scholar: https://scholar.google.com/citations?user=5ElbNzsAAAAJ&hl=en
 #github_username:  jekyll
+author.name: Jenna Moore
+author.email: jenna.moore@duke.edu
 
 # Build settings
 theme: minima
