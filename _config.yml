@@ -24,7 +24,7 @@ author:
   name: Jenna Moore
   email: jenna.moore@duke.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  My website
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://www.jenna-moore.com
 
