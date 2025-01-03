@@ -25,8 +25,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Jenna Moore
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-google_scholar: https://scholar.google.com/citations?user=5ElbNzsAAAAJ&hl=en
-#github_username:  jekyll
 author.name: Jenna Moore
 author.email: jenna.moore@duke.edu
 
@@ -64,7 +62,7 @@ minima:
     # - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
     # - { platform: github,         user_url: "https://github.com/jekyll/minima" }
     # - { platform: gitlab,         user_url: "https://gitlab.com/jekyll" }
-    # - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=5ElbNzsAAAAJ&hl=en" }
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=5ElbNzsAAAAJ&hl=en" }
     # - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
     # - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
