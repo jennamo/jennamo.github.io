@@ -37,7 +37,7 @@ plugins:
 minima:
   skin: classic
   social_links:
-    - {platform: bluesky, user_url: "https://bsky.app/profile/drjmo.bsky.social" }
+    - { platform: bluesky, user_url: "https://bsky.app/profile/drjmo.bsky.social" }
     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=5ElbNzsAAAAJ&hl=en" }
     - { platform: linkedin, user_url: "www.linkedin.com/in/jenna-moore-phd-02b5598a" }
 
