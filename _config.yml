@@ -37,14 +37,9 @@ plugins:
 minima:
   skin: classic
   social_links:
-    # - { platform: github,  user_url: "https://github.com/lackovic" }
+    - {platform: bluesky, user_url: "https://bsky.app/profile/drjmo.bsky.social" }
     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=5ElbNzsAAAAJ&hl=en" }
-    # - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/334569/marco-lackovic" }
-    # - { platform: linkedin, user_url: "https://www.linkedin.com/in/marco-lackovic-51a4952/" }
-
-# Comments
-# disqus:
-#     shortname: marco-lackovic
+    - { platform: linkedin, user_url: "www.linkedin.com/in/jenna-moore-phd-02b5598a" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
