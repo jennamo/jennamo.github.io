@@ -41,6 +41,11 @@ minima:
     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=5ElbNzsAAAAJ&hl=en" }
     - { platform: linkedin, user_url: "www.linkedin.com/in/jenna-moore-phd-02b5598a" }
 
+header_pages:
+  - about.md
+  - cv.md
+  - research.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
