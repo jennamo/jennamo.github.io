@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Simons Observatory
 permalink: /research/simonsobservatory
 ---
 
