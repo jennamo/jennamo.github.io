@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<center><img src="https://raw.githubusercontent.com/jennamo/jennamo.github.io/gh-pages/docs/assets/images/_48Y5749.JPG" alt="Jenna Moore" width="75%" height="75%" ></center>
+<center><img src="https://raw.githubusercontent.com/jennamo/jennamo.github.io/gh-pages/docs/assets/images/_48Y5749.JPG" alt="Jenna Moore" width="65%" height="65%" ></center>
 
 
 Hi! I am currently a Postdoctoral Associate in the Department of Physics at Duke University in Durham, North Carolina. Here at Duke, I am working with [Dr. Eve Vavagiakis](https://evevavagiakis.com/) to establish a new experimental cosmology instrumentation laboratory. 
